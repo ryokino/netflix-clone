@@ -26,3 +26,4 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 # 参考になったサイト
 [youtube](https://www.youtube.com/watch?v=cwqNAkwhKqw&t=4327s)
 [github](https://www.sejuku.net/blog/70775)
+[Deploy_Custom](https://netflix-clone-eta-five.vercel.app/)
