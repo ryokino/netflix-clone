@@ -21,3 +21,8 @@ pnpm create next-app -- --example with-tailwindcss with-tailwindcss-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+
+# 参考になったサイト
+[youtube](https://www.youtube.com/watch?v=cwqNAkwhKqw&t=4327s)
+[github](https://www.sejuku.net/blog/70775)
